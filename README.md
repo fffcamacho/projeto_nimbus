@@ -44,6 +44,8 @@ O sistema deverá apresentar as váriaveis manipuladas pela Nimbus de forma intu
 
 A renovação no sistema vem para suprir a necessidade de transformar os dados fornecidos pela Nimbus de forma mais intuitiva para o usuário, além de melhorar o desempenho visual e trazer responsividade aos objetos manipulados pelo sistema. Permitindo também exportações CSV, PDF e PNG.
 
+---
+
 🔨 ***PROPÓSITO***
 ---
 
@@ -64,6 +66,8 @@ O propósito do sistema é fornecer aos usuários uma plataforma intuitiva para 
 4. Exportação de Dados: Deve haver um botão de exportação de dados em formatos: CSV, PDF e PNG.
 
 5. Clareza e Usabilidade: A interface deve ser projetada para ser clara e intuitiva, garantindo que os usuário possa compreender os dados facilmente e realizar análises de maneira eficiente.
+
+---
 
 🗒️ ***ELICITAÇÃO***
 ---
@@ -88,6 +92,7 @@ O propósito do sistema é fornecer aos usuários uma plataforma intuitiva para 
 | RNF5 | O sistema deverá apresentar uma experiência intuitiva para o usuário.       |
 | RNF6 | O sistema deverá estar disponível 24h por dia.                                      |      
 
+---
 
 👨‍💻 ***CASOS DE USO:***
 ---
@@ -180,7 +185,7 @@ O propósito do sistema é fornecer aos usuários uma plataforma intuitiva para 
 
 1- O usuário obtém as informações do ponto selecionado para análise.
 
-   
+---  
 
 
 💎 ***GRUPO LALFF***
