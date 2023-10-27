@@ -7,12 +7,11 @@ Formada no Rio de Janeiro no ano de 2020, a Nimbus é uma Construtech de pequeno
 ---
 
 📚 ***5W2H***
-
 ---
 
 
 **QUEM?**
----
+
 
  Qualquer tipo de empresa, instituição ou indivíduo que necessite de dados meteorológicos de alta precisão, como: empresas de construção civil, engenheiros, prefeituras, estaleiros, empresas de dragagem e terraplanagem, Incorporadoras e terminais portuários.
    
